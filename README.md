@@ -9,4 +9,4 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/730a5cc
 
 ## Programs 
 - [Dominant Cells](Dominant_Cells.py)
-- [String Representations of Objects](string-representation-of-objects.py)
+- [String Representations of Objects](string_representation_of_objects.py)
